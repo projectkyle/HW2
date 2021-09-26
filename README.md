@@ -1,5 +1,7 @@
 # HW2
 
+#Kyle Zhou, Nicholas Esposito, Jen Lavayen, Lauren Done, Hugo
+
 #code
 
 load("acs2017_ny_data.RData")
